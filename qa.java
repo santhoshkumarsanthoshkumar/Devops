@@ -1,1 +1,1 @@
-hi revert
+hi reset
