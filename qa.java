@@ -1,2 +1,4 @@
-hi reset
+hi new commit
+
+
 
